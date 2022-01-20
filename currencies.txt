@@ -1,0 +1,25 @@
+USD, US Dollar, $
+CAD, Canadian Dollar, $
+EUR, Euro, €
+JPY, Japanese Yen, ¥
+BGN, Bulgarian Lev, лв
+CZK, Czech Koruna, Kč
+DKK, Danish Krone, kr
+GBP, Pound Sterling, £
+HUF, Hungarian Forint, Ft
+PLN, Polish Zloty, zł
+RON, Romanian Leu, lei
+SEK, Swedish Krona, kr
+CHF, Swiss Franc, Fr
+ISK, Icelandic Krona, kr
+NOK, Norwegian Krone, kr
+HRK, Croatian Kuna, kn
+RUB, Russian Rouble, ₽
+TRY, Turkish Lira, ₺
+AUD, Australian Dollar, $
+BRL, Brazilian Real, R$
+CNY, Chinese Yuan Renminbi, ¥
+INR, Indian Rupee, ₹
+KRW, South Korean Won, ₩
+ZAR, South African Rand, R
+SGD, Singapore Dollar, S$
